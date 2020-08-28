@@ -1,10 +1,10 @@
 # Self-Service-Password-Reset-System
 -------
 <p align="center">
-    <a href="#whats-included-">About 🚀</a> &bull;
-    <a href="#Tools & Frameworks">Tools & Frameworks 🛠️</a> &bull;
-    <a href="#Preview">Preview :clapper: </a> &bull;
-    <a href="#Developed By">Developers 💻 </a>
+    <a href="#about">About 🚀</a> &bull;
+    <a href="#tools&frameworks">Tools & Frameworks 🛠️</a> &bull;
+    <a href="#preview">Preview 🎬 </a> &bull;
+    <a href="#developedby">Developers 💻 </a>
 </p>
 
 -----------------
