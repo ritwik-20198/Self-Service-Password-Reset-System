@@ -2,9 +2,9 @@
 -------
 <p align="center">
     <a href="https://github.com/ritwik-20198/Self-Service-Password-Reset-System/blob/master/README.md#about-">About 🚀</a> &bull;
-    <a href="#tools&frameworks">Tools & Frameworks 🛠️</a> &bull;
-    <a href="#preview">Preview 🎬 </a> &bull;
-    <a href="#developedby">Developers 💻 </a>
+    <a href="https://github.com/ritwik-20198/Self-Service-Password-Reset-System/blob/master/README.md#tools--frameworks-%EF%B8%8F">Tools & Frameworks 🛠️</a> &bull;
+    <a href="https://github.com/ritwik-20198/Self-Service-Password-Reset-System/blob/master/README.md#preview-">Preview 🎬 </a> &bull;
+    <a href="https://github.com/ritwik-20198/Self-Service-Password-Reset-System/blob/master/README.md#developed-by-">Developers 💻 </a>
 </p>
 
 -----------------
@@ -79,5 +79,5 @@ A fusion of networking concepts (SMTP protocol) and .Net framework using C# prog
   
 ## Developed By 💻
 
-* Ritwik Gupta [LinkedIn](https://www.linkedin.com/in/ritwik-gupta-20198/)
-* Roshan Choudhary [LinkedIn](https://www.linkedin.com/in/roshanchoudhary03/)
+* Ritwik Gupta  &bull; [LinkedIn](https://www.linkedin.com/in/ritwik-gupta-20198/)
+* Roshan Choudhary  &bull; [LinkedIn](https://www.linkedin.com/in/roshanchoudhary03/)
