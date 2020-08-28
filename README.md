@@ -40,15 +40,15 @@ A fusion of networking concepts (SMTP protocol) and .Net framework using C# prog
   
   ![ResetPassword_sendOTP](https://github.com/ritwik-20198/Self-Service-Password-Reset-System/blob/master/Screenshots/3.%20ResetPassword_sendOTP.png)
   
-  * OTP Send to your mail Id
+  * Send OTP to your mail Id
   
   ![ResetPassword_codeSent](https://github.com/ritwik-20198/Self-Service-Password-Reset-System/blob/master/Screenshots/4.%20ResetPassword_codeSent.png)
   
-  * OTP in your e-mail
+  * Password reset mail
   
   ![check_your_mail](https://github.com/ritwik-20198/Self-Service-Password-Reset-System/blob/master/Screenshots/5.%20check_your_mail.jpg)
   
-  * Mail
+  * OTP in Mail
   
   ![ResetPassword_Otp](https://github.com/ritwik-20198/Self-Service-Password-Reset-System/blob/master/Screenshots/6.%20ResetPassword_Otp.png)
   
