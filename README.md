@@ -3,8 +3,8 @@
 <p align="center">
     <a href="#whats-included-">About 🚀</a> &bull;
     <a href="#Tools & Frameworks">Tools & Frameworks 🛠️</a> &bull;
-    <a href="#Preview">Preview :clapper: </a>
-    
+    <a href="#Preview">Preview :clapper: </a> &bull;
+    <a href="#Developed By">Developers 💻 </a>
 </p>
 
 -----------------
@@ -25,12 +25,12 @@ A fusion of networking concepts (SMTP protocol) and .Net framework using C# prog
 * SMTP Protocol
 
 
-## Preview 
+## Preview 🎬
 
 
   * Main Login Tab
   
-  ![Login Tab](Screenshots/1. Login Tab.png)
+  ![Login Tab](https://github.com/ritwik-20198/Self-Service-Password-Reset-System/blob/master/Screenshots/1.%20Login%20Tab.png)
   
   * Login failed! wrong password.
   
@@ -76,3 +76,8 @@ A fusion of networking concepts (SMTP protocol) and .Net framework using C# prog
   
   ![tblforgetpass_Database_table](https://github.com/ritwik-20198/Self-Service-Password-Reset-System/blob/master/Screenshots/tblforgetpass_Database_table.png)
   
+  
+## Developed By 💻
+
+* Ritwik Gupta [LinkedIn](https://www.linkedin.com/in/ritwik-gupta-20198/)
+* Roshan Choudhary [LinkedIn](https://www.linkedin.com/in/roshanchoudhary03/)
