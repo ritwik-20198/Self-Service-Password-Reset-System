@@ -1,7 +1,7 @@
 # Self-Service-Password-Reset-System
 -------
 <p align="center">
-    <a href="#about">About 🚀</a> &bull;
+    <a href="https://github.com/ritwik-20198/Self-Service-Password-Reset-System/blob/master/README.md#about-">About 🚀</a> &bull;
     <a href="#tools&frameworks">Tools & Frameworks 🛠️</a> &bull;
     <a href="#preview">Preview 🎬 </a> &bull;
     <a href="#developedby">Developers 💻 </a>
