@@ -3,7 +3,7 @@
 <p align="center">
     <a href="#whats-included-">About 🚀</a> &bull;
     <a href="#Tools & Frameworks">Tools & Frameworks 🛠️</a> &bull;
-    <a href="#Preview">Preview :clapper: </a> &bull;
+    <a href="#Preview">Preview :clapper: </a>
     
 </p>
 
