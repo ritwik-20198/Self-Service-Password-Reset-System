@@ -6,10 +6,12 @@
     <a href="#Preview">Preview :clapper: </a> &bull;
     
 </p>
--------
+-----------------
+
 
 ## About 🚀
 A fusion of networking concepts (SMTP protocol) and .Net framework using C# programming language and MySQL as DBMS. This system allows user to reset their password, by validating an OTP sent to their mail address.
+
 
 ## Tools & Frameworks 🛠️
 
