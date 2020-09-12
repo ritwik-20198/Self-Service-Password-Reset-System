@@ -11,7 +11,9 @@
 
 
 ## About 🚀
-A fusion of networking concepts (SMTP protocol) and .Net framework using C# programming language and MySQL as DBMS. This system allows user to reset their password, by validating an OTP sent to their mail address.
+
+Password Reset System is the action of invalidating the current password for an account on a website, service, or device, and then creating a new one. A password may be reset using the settings of the software or service or through OTP system, or by contacting the customer service department.
+If you need your password reset, most services have a forgot password service that can send you a OTP in an e-mail to reset your password to something new.
 
 
 ## Tools & Frameworks 🛠️
